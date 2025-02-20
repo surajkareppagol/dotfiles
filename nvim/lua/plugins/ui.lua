@@ -37,4 +37,5 @@ return {
 		"stevearc/dressing.nvim",
 		opts = {},
 	},
+	{ "Bekaboo/deadcolumn.nvim" },
 }
